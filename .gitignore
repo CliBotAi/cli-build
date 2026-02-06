@@ -8,3 +8,4 @@ build.zip
 easy_cli/
 easy_cli.exe
 push_run/
+.DS_Store
